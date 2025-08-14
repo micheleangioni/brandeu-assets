@@ -1,0 +1,50 @@
+{
+  "Fashion": {
+    "svg": "icons/product-types/fashion/fashion.svg",
+    "png96": "icons/product-types/fashion/fashion.png"
+  },
+  "Food & Beverage": {
+    "svg": "icons/product-types/food-beverage/food-beverage.svg",
+    "png96": "icons/product-types/food-beverage/food-beverage.png"
+  },
+  "Home": {
+    "svg": "icons/product-types/home/home.svg",
+    "png96": "icons/product-types/home/home.png"
+  },
+  "Personal Care": {
+    "svg": "icons/product-types/personal-care/personal-care.svg",
+    "png96": "icons/product-types/personal-care/personal-care.png"
+  },
+  "Electronics": {
+    "svg": "icons/product-types/electronics/electronics.svg",
+    "png96": "icons/product-types/electronics/electronics.png"
+  },
+  "Kids & Family": {
+    "svg": "icons/product-types/kids-family/kids-family.svg",
+    "png96": "icons/product-types/kids-family/kids-family.png"
+  },
+  "Travel": {
+    "svg": "icons/product-types/travel/travel.svg",
+    "png96": "icons/product-types/travel/travel.png"
+  },
+  "Media & Subscriptions": {
+    "svg": "icons/product-types/media-subscriptions/media-subscriptions.svg",
+    "png96": "icons/product-types/media-subscriptions/media-subscriptions.png"
+  },
+  "Finance": {
+    "svg": "icons/product-types/finance/finance.svg",
+    "png96": "icons/product-types/finance/finance.png"
+  },
+  "Mobility": {
+    "svg": "icons/product-types/mobility/mobility.svg",
+    "png96": "icons/product-types/mobility/mobility.png"
+  },
+  "Pets": {
+    "svg": "icons/product-types/pets/pets.svg",
+    "png96": "icons/product-types/pets/pets.png"
+  },
+  "Education & Productivity": {
+    "svg": "icons/product-types/education-productivity/education-productivity.svg",
+    "png96": "icons/product-types/education-productivity/education-productivity.png"
+  }
+}
