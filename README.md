@@ -8,6 +8,8 @@ All assets are served publicly through [jsDelivr](https://www.jsdelivr.com/):
 
 https://cdn.jsdelivr.net/gh/{USER}/{REPO}@{version}/{path/to/file}
 
+Example: https://cdn.jsdelivr.net/gh/micheleangioni/brandeu-assets@latest/icons/product-types/finance/finance.svg
+
 ## ⚖️ Fair Use & Trademark Notice
 
 Brand names and logos featured in this repository are **the property of their respective trademark owners**.  
