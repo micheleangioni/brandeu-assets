@@ -8,7 +8,13 @@ All assets are served publicly through [jsDelivr](https://www.jsdelivr.com/):
 
 https://cdn.jsdelivr.net/gh/{USER}/{REPO}@{version}/{path/to/file}
 
-Example: https://cdn.jsdelivr.net/gh/micheleangioni/brandeu-assets@latest/icons/product-types/finance/finance.svg
+Examples:
+
+Product Type:
+https://cdn.jsdelivr.net/gh/micheleangioni/brandeu-assets@latest/icons/product-types/finance/finance.svg
+
+European Brand:
+https://cdn.jsdelivr.net/gh/micheleangioni/brandeu-assets@latest/icons/european-brands/spotify/spotify.jpg
 
 ## ⚖️ Fair Use & Trademark Notice
 
