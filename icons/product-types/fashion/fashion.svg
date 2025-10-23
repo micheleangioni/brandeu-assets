@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
-  <!-- Hook -->
-  <path d="M42.0,24 C42.0,16 54.0,16 54.0,24" />
-  <line x1="54.0" y1="24" x2="54.0" y2="30" />
-  <!-- Hanger frame -->
-  <path d="M18,56 L48.0,36 L78,56" />
-  <path d="M18,56 C33.0,64 63.0,64 78,56" />
-</svg>
