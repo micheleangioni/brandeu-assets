@@ -16,6 +16,10 @@ https://cdn.jsdelivr.net/gh/micheleangioni/brandeu-assets@latest/icons/product-t
 European Brand:
 https://cdn.jsdelivr.net/gh/micheleangioni/brandeu-assets@latest/icons/european-brands/spotify/spotify.jpg
 
+Label:
+European Brand:
+https://cdn.jsdelivr.net/gh/micheleangioni/brandeu-assets@latest/labels/eco_certified.png
+
 ## ⚖️ Fair Use & Trademark Notice
 
 Brand names and logos featured in this repository are **the property of their respective trademark owners**.  
